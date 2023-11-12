@@ -10,11 +10,6 @@ app = FastAPI()
 async def create_files(files: List[bytes] = File(default=...)):
     return {"file_sizes": [len(file) for file in files]}
 
-
-
-
-
-
 @app.get("/")
 async def main():
     content = """
