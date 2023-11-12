@@ -1,0 +1,15 @@
+setuptools~=53.0.0
+fastapi~=0.63.0
+uvicorn~=0.13.4
+pydantic~=1.8.2
+geojson-pydantic~=0.3.1
+PyYAML==5.3.1
+pika==1.2.0
+PyJWT~=2.3.0
+psycopg2-binary==2.9.1
+locust~=2.2.1
+tenacity==8.0.1
+elastic-apm==6.1.0
+clickhouse-driver==0.2.3
+pandas~=1.5.2
+numpy~=1.22.1
