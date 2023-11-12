@@ -1,1 +1,1 @@
-dqdq
+print(1)
