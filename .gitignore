@@ -22,7 +22,6 @@ accounts.txt
 __pycache__/
 
 dist/
-*.log
 *.pyc
 *.egg-info/
 *.egg
