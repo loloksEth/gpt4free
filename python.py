@@ -1,2 +1,1 @@
-print(12)
-qw
+print('hello')
